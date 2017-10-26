@@ -1,7 +1,3 @@
-## Welcome to Netdisco!
-
-Netdisco is a web-based network management tool suitable for small to very large networks. IP and MAC address data is collected into a PostgreSQL database using SNMP, CLI, or device APIs.
-
 Some of the things you can do with Netdisco:
 
 * Locate a machine on the network by MAC or IP and show the switch port it lives at
