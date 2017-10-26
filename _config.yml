@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-title: Welcome to Netdisco!
-description: Netdisco is a web-based network management tool suitable for small to very large networks. IP and MAC address data is collected into a PostgreSQL database using SNMP, CLI, or device APIs.
+title: "Welcome to Netdisco!"
+description: "Netdisco is a web-based network management tool suitable for small to very large networks. IP and MAC address data is collected into a PostgreSQL database using SNMP, CLI, or device APIs."
