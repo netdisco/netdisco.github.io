@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Netdisco!
 
-You can use the [editor on GitHub](https://github.com/netdisco/netdisco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Netdisco is a web-based network management tool suitable for small to very large networks. IP and MAC address data is collected into a PostgreSQL database using SNMP, CLI, or device APIs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of the things you can do with Netdisco:
 
-### Markdown
+* Locate a machine on the network by MAC or IP and show the switch port it lives at
+* Turn off a switch port, or change the VLAN or PoE status of a port
+* Inventory your network hardware by model, vendor, software and operating system
+* Pretty pictures of your network
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See the demo at: https://netdisco2-demo.herokuapp.com/
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
+Netdisco is written in Perl and self-contained apart from the PostgreSQL database, so is very easy to install and runs well on any linux or unix system. It includes a lightweight web server for the interface, a backend daemon to gather data from your network, and a command line interface for troubleshooting. There is a simple configuration file in YAML format.
 
-- Bulleted
-- List
+Please check out the installation instructions on CPAN.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/netdisco/netdisco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can also speak to someone in the `#netdisco@freenode` IRC channel, or on the [community email list](https://lists.sourceforge.net/lists/listinfo/netdisco-users).
