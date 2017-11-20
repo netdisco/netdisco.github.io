@@ -16,9 +16,9 @@ list](https://lists.sourceforge.net/lists/listinfo/netdisco-users).
 
 ---
 
-![Device Search](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-2.png | width=200)
-![Device Ports and Nodes](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-1.png | width=200px)
-![Device Details](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-3.png | width=200px)
+![Device Search](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-2.png|width=200)
+![Device Ports and Nodes](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-1.png|width=200px)
+![Device Details](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-3.png|width=200px)
 
 ---
 
