@@ -16,13 +16,15 @@ list](https://lists.sourceforge.net/lists/listinfo/netdisco-users).
 
 ---
 
+[[[https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-2.png|alt="Device Search"|width=200px]]](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-2.png)
+[[[https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-1.png|alt="Device Ports and Nodes"|width=200px]]](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-1.png)
+[[[https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-3.png|alt="Device Details"|width=200px]]](https://raw.githubusercontent.com/netdisco/upstream-sources/master/screenshots/nd2-shot-3.png)
+
+---
+
 Some of the things you can do with Netdisco:
 
 * Locate a machine on the network by MAC or IP
 * Turn off a switch port, or change the VLAN or PoE status of a port
 * Inventory your network by model, vendor, and software
 * Pretty pictures of your network
-
-See the demo at:
-[https://netdisco2-demo.herokuapp.com/](https://netdisco2-demo.herokuapp.com/)
-

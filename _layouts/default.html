@@ -25,9 +25,13 @@
 
         {% if site.show_downloads %}
           <ul>
-            <li><a href="{{ site.github.install_url }}"><strong>Install</strong></a></li>
-            <li><a href="{{ site.github.config_url }}"><strong>Configure</strong></a></li>
+            <li><a href="{{ site.install_url }}">How To <strong>Install</strong></a></li>
+            <li><a href="{{ site.config_url }}">How To <strong>Configure</strong></a></li>
             <li><a href="{{ site.github.owner_url }}">View On <strong>GitHub</strong></a></li>
+          </ul>
+          <ul>
+            <li><a href="{{ site.demo_url }}">See a<strong>Demo</strong></a></li>
+            <li><a href="{{ site.wiki_url }}">View the <strong>Wiki</strong></a></li>
           </ul>
         {% endif %}
       </header>
