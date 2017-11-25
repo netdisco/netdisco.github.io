@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-border: solid #082377;
-padding: 15px;
-border-radius: 10px;
+header {
+  border: solid #082377;
+  padding: 15px;
+  border-radius: 10px;
+}
