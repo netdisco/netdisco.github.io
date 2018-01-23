@@ -1,6 +1,6 @@
 Netdisco is written in Perl and self-contained apart from the PostgreSQL
 database, so is very easy to install and runs well on any linux or unix
-system.
+system. We also have [docker images](https://store.docker.com/community/images/netdisco/netdisco) if you prefer.
 
 It includes a lightweight web server for the interface, a backend daemon to
 gather data from your network, and a command line interface for
