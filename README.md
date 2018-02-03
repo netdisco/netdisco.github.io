@@ -29,9 +29,7 @@ Some of the things you can do with Netdisco:
 * Inventory your network by model, vendor, and software
 * Pretty pictures of your network
 
-[![Build Status](https://travis-ci.org/netdisco/netdisco.svg?branch=master)](https://travis-ci.org/netdisco/netdisco)
 [![CPAN version](https://badge.fury.io/pl/App-Netdisco.svg)](https://metacpan.org/pod/App::Netdisco)
-[![Release date](https://img.shields.io/github/release-date/netdisco/netdisco-docker.svg?label=released)](https://metacpan.org/pod/App::Netdisco)
-
-[![Docker Backend Image](https://img.shields.io/microbadger/image-size/netdisco/netdisco/latest-backend.svg?label=backend)](https://store.docker.com/community/images/netdisco/netdisco)
-[![Docker Backend Image](https://img.shields.io/microbadger/image-size/netdisco/netdisco/latest-web.svg?label=frontend)](https://store.docker.com/community/images/netdisco/netdisco)
+[![Release date](https://img.shields.io/github/release-date/netdisco/netdisco.svg?label=released)](https://metacpan.org/pod/App::Netdisco)
+[![Build Status](https://travis-ci.org/netdisco/netdisco.svg?branch=master)](https://travis-ci.org/netdisco/netdisco)
+[![Docker Image](https://img.shields.io/badge/docker%20images-ready-blue.svg)](https://store.docker.com/community/images/netdisco/netdisco)
