@@ -24,9 +24,9 @@ list](https://lists.sourceforge.net/lists/listinfo/netdisco-users).
 
 Some of the things you can do with Netdisco:
 
-* Locate a machine on the network by MAC, IP or SSID and show the switch port it lives at
+* Locate a machine on the network by MAC or IP
 * Turn off a switch port, or change the VLAN or PoE status of a port
-* Inventory your network hardware by model, vendor, software and operating system
+* Inventory your network by model, vendor, and software
 * Keep historic data of system IPs and locations
 * Search and retrieve data via the [API](https://netdisco2-demo.herokuapp.com/swagger-ui)
 * View pretty pictures of your network
