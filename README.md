@@ -1,4 +1,4 @@
-Netdisco is written in Perl and Python and self-contained apart from the PostgreSQL
+Netdisco is written in Perl and Python and is self-contained apart from the PostgreSQL
 database, so is very easy to install and runs well on any linux or unix
 system. We also have [docker images](https://store.docker.com/community/images/netdisco/netdisco) if you prefer.
 
