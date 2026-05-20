@@ -28,7 +28,7 @@ Some of the things you can do with Netdisco:
 * Turn off a switch port, or change the VLAN or PoE status of a port
 * Inventory your network by model, vendor, and software
 * Keep historic data of system IPs and locations
-* Search and retrieve data via the [API](https://netdisco2-demo.herokuapp.com/swagger-ui)
+* Search and retrieve data via the [API](https://netdisco-demo-jyxhs.ondigitalocean.app/swagger-ui/?url=/swagger.json)
 * View pretty pictures of your network
 
 [![CPAN version](https://badge.fury.io/pl/App-Netdisco.svg)](https://metacpan.org/pod/App::Netdisco)
